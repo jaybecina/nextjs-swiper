@@ -1,0 +1,14 @@
+.container {
+  .swiper {
+    background-color: #eee;
+    width: 100%;
+    height: fit-content;
+    .swiperslide {
+      img {
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+      }
+    }
+  }
+}
